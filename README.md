@@ -54,7 +54,7 @@ No CI/CD pipeline — I am the pipeline.
 
 ## stats
 
-![YoDoesDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoDoesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888)
+![YoDoesDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoDoesDev&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ---
 
